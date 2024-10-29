@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_airace_player,airace.player,model_airace_player,base.group_user,1,1,1,1
+access_airace_airplane,airace.airplane,model_airace_airplane,base.group_user,1,1,1,1
